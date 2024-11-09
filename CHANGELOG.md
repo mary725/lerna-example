@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.1](https://github.com/mary725/lerna-example/compare/v0.2.0...v0.2.1) (2024-11-09)
+
+
+### Bug Fixes
+
+* Fix apple package ([2d633f1](https://github.com/mary725/lerna-example/commit/2d633f15d6ca4a5118d051adc063cd6c5f140048))
+
+
+
+
+
 # [0.2.0](https://github.com/mary725/lerna-example/compare/v0.1.0...v0.2.0) (2024-11-09)
 
 
