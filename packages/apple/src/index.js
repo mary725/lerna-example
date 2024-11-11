@@ -3,5 +3,5 @@
 module.exports = apple;
 
 function apple() {
-  return 'Hello from apple package ';
+  return 'Hello from apple package  ';
 }
