@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.1](https://github.com/mary725/lerna-example/compare/v1.1.0...v1.1.1) (2024-11-11)
+
+
+### Bug Fixes
+
+* Fix message ([8dae876](https://github.com/mary725/lerna-example/commit/8dae876fe41fc977cd26f67a4cb4625219fc351a))
+
+
+
+
+
 # [1.1.0](https://github.com/mary725/lerna-example/compare/v0.4.0...v1.1.0) (2024-11-11)
 
 
