@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0](https://github.com/mary725/lerna-example/compare/v1.1.1...v2.0.0) (2024-11-11)
+
+
+### Features
+
+* Add major change ([deff61d](https://github.com/mary725/lerna-example/commit/deff61d7ea97d211da325e8021de1e05472477bc))
+
+
+### BREAKING CHANGES
+
+* Add breaking change
+
+
+
+
+
 ## [1.1.1](https://github.com/mary725/lerna-example/compare/v1.1.0...v1.1.1) (2024-11-11)
 
 
