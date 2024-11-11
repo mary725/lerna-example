@@ -1,5 +1,5 @@
 {
-  "name": "apple",
+  "name": "@my-packages/apple",
   "version": "0.3.0",
   "main": "index.js",
   "scripts": {

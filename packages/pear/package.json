@@ -1,5 +1,5 @@
 {
-  "name": "pear",
+  "name": "@my-packages/pear",
   "version": "0.3.0",
   "main": "index.js",
   "scripts": {

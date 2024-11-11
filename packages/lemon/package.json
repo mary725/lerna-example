@@ -1,5 +1,5 @@
 {
-  "name": "lemon",
+  "name": "@my-packages/lemon",
   "version": "0.3.0",
   "main": "index.js",
   "scripts": {
