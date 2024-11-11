@@ -4,7 +4,7 @@ module.exports = apple;
 
 
 /**
- * apple
+ * apple fn
  */
 function apple() {
   return 'Hello from apple package   ';
